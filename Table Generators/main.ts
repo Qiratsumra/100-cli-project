@@ -65,7 +65,3 @@ let table  = true ;
 
 
 
-
-
-
-
